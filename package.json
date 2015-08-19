@@ -43,6 +43,11 @@
     "urltools": "0.2.0"
   },
   "devDependencies": {
-    "jshint": "^2.5.2"
+    "jshint": "^2.5.2",
+    "magicpen-media": "1.5.0",
+    "messy": "6.6.1",
+    "unexpected": "9.4.0",
+    "unexpected-messy": "4.6.0",
+    "unexpected-mitm": "7.5.1"
   }
 }
